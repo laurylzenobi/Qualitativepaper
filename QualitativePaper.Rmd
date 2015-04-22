@@ -1,0 +1,11 @@
+---
+title: "QualitativePaper"
+author: "Lauryl Zenobi"
+date: "April 22, 2015"
+output: html_document
+---
+
+For the purpose of this paper, I will read Kyle Latinis' disseration, which provides a wealth of information related to the sago trade and ceramic analysis within the Maluku province of Indonesia. The dissertation is uploaded in multiple rtf files, therefore, I have linked to the url below:  
+
+[Latinis Dissertation](https://catalyst.uw.edu/workspace/emilypt/22980/359384)  
+
