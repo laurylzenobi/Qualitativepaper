@@ -1,0 +1,12 @@
+---
+title: "qualpaper"
+author: "Lauryl Zenobi"
+date: "April 24, 2015"
+output: html_document
+---
+
+For the purpose of this paper, I will read Kyle Latinis' dissertation, which explores subsistence systems in the Maluku region of Indonesia. Latinis' dissertation is in several rich text files, so for ease of access I have linked to the url below:
+
+[Latinis' Dissertation](https://catalyst.uw.edu/workspace/emilypt/22980/359384)  
+
+The goal of this exercise is to both delve into the existing literature on Maluku subsistence in relationship to sago and sago production, and to explore his theoretical framewoks in the hope that it will inform my own interpretations. 
