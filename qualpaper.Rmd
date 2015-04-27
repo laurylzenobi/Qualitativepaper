@@ -5,8 +5,7 @@ date: "April 24, 2015"
 output: html_document
 ---
 
-For the purpose of this paper, I will read Kyle Latinis' dissertation, which explores subsistence systems in the Maluku region of Indonesia. Latinis' dissertation is in several rich text files, so for ease of access I have linked to the url below:
+For the purpose of this paper, I will read Chung Ching's dissertation, which explores changes in ceramic assemblages in the Maluku region of Indonesia. A copy of his dissertation has been uploaded to the source folder on github.  
+I have selected Ching's dissertation over a previous choice (Kyle Latinis, UH Manoa), because of its focus on ceramics and its comprehensive nature, as it will be of direct influence on my own research. 
 
-[Latinis' Dissertation](https://catalyst.uw.edu/workspace/emilypt/22980/359384)  
-
-The goal of this exercise is to both delve into the existing literature on Maluku subsistence in relationship to sago and sago production, and to explore his theoretical framewoks in the hope that it will inform my own interpretations. 
+The goal of this exercise is to both delve into the existing literature on Maluku ceramic industries, and to explore Ching's theoretical framewoks in the hope that it will inform my own interpretations. 
