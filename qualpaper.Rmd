@@ -4,7 +4,7 @@ author: "Lauryl Zenobi"
 date: "April 24, 2015"
 output: html_document
 ---
-**Introduction**
+**Introduction**  
 For the purpose of this paper, I will read Chung Ching Shiung's dissertation, which explores changes in ceramic assemblages in the Maluku region of Indonesia. A copy of his dissertation has been uploaded to the source folder on github.  
 
 I have selected Shiung's dissertation over a previous choice (Kyle Latinis, UH Manoa), because of its focus on ceramics and its comprehensive nature, as it will be of direct influence on my own research. 
@@ -16,24 +16,25 @@ This dissertation, titled, "The Implications of Social, Cultural, Economic, and 
   2) how we can measure and monitor their influence on Banda’s ceramic changes, and   
   3) the broader implications of ceramic changes in connection with Banda’s cultural history. (Shiung 2011:6)
 
-**Archaeological evidence**
+**Archaeological evidence**  
 Ceramic materials are the unit of analysis for this dissertation. Shiung argues that ceramic assemblages could be used to understand the social, political, and economic rationale of the people who produce and distribute the ceramics. Previous approaches, such as Bellwood's Austronesian expansion model has long been used to explain the movement and distribution of people and goods (utilitarian and trade) throughout Island Southeast Asia (ISEA).   
 Ceramics remained largely unchanged for millenia in ISEA, however, the development of pan-regional trade with Chinese and Muslim traders during the past one thousand years may have disrupted this continuity. If that is true, then increased culture contact as a result of growing trade relationships could induce changes in local material culture. Shiung focuses particularly on the specialization of ceramic production in the Banda Islands in the context of a growing maritime spice trade during the last one thousand years in the Maluku region. Specifically, this study looks at changes in lip-rim thickness of ceramics vessels as its proxy for specialization.
 
-**Link between evidence and behavior**
+**Link between evidence and behavior**  
 It is expected that as specializaton increases, there will be a corresponding reduction in variation of lip-rim thickness within the recovered ceramic assemblages. Ethnographic evidence demonstrates that ceramic specialization has occurred in Maluku during the past few centuries (Shiung 2011:40). Shiung proposes that social boundaries and trade networks are mechanisms that could affect ceramic assemblages (Shiung 2011:41). However, this behaviors often do not present archaeologically.  Behaviors like culture, society, contact, adaptation, migration, and specializaton do not always produce concrete traces that can be empirically measured. Ceramics, however, are a useful way of answering these questions because of their multiple levels of function and style, their ubiquity and durability, and the fact that both the production and distribution of ceramics can leave evidence in the archaeological record. 
 
-**Different scales of behavior**
+**Different scales of behavior**  
 Global vs Local, trade ceramics vs locally produced and distributed ceramics, differences across assemblages in rim thickness variation.  
 
-**Explanatory model**
+**Explanatory model**  
 pragmatism- contextual interpretations of trade goods/prestige items : "Carnelian beads eventually locally produced, not imported, therefore their presence does not always indicate indianization" (Shiung 2011:3).
 causal mechanisms - what external or internal factors motivates changes to ceramic assemblages: "Ignoring local developments prevents us from revealing the “black box” and leaves the mechanisms of cultural evolution a mystery” (Shiung 2011:3). 
 
-**Explanatory model and relevant philosophy of science literature**
+**Explanatory model and relevant philosophy of science literature**  
 Van Frassen, Salmon. 
 
-**Critique of model**
+**Critique of model**  
 problems with pragmatism, causal approaches. Potential areas of explanatory improvement that could be translated to my research. 
-**Conclusion**
+
+**Conclusion**    
 
