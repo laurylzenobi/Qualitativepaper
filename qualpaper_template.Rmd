@@ -50,9 +50,9 @@ causal net formed by lines leading up to that event
 Van Frassen believes that explanations are not propositions or arguments, but are answers to why-questions. Therefore, a theory of explanations must be a theory of why-questions. Many models have been used to understand explanation, the simplest being logic models (eg. A then B, therefore A caused B) can be inadequate because of its reductionist approach. However, van Frassen advocates for a simplifying hypothesis, which identifies propositions and arguments within their context, allowing multiple propositions to be considered while keeping the structure of the explanation simple. This will, naturally, only work if phenomena are simple enough for such a simple model to fit.
   
 Van Frassen identifies three factors that are integral to answering a why-question
->1. the topic (one of the facts/observations of the question) 
->2. the constrast-class (alternative propositions), and 
->3. the relevance relation (how relevant the propositions are to the question being asked).  
+1. the topic (one of the facts/observations of the question) 
+2. the constrast-class (alternative propositions), and 
+3. the relevance relation (how relevant the propositions are to the question being asked).  
 With these in mind, a why-question has three assumptions - that it's topic is true, that in its constrast-class (of the alternatives) only its topic is true, and that at least one of the propositions is relevant to the topic.    
 
 
