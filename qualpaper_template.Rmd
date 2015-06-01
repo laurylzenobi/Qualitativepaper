@@ -3,6 +3,7 @@ title: "Causality and Ceramics in Maluku, Indonesia"
 author: "Lauryl Zenobi"
 date: "June 6 2015"
 output: rmarkdown::tufte_handout
+bibliography: explanations.bib
 ---
 #Introduction  
 The focus of this paper is Chung Ching Shiung's dissertation, which explores changes in ceramic assemblages in the Maluku region of Indonesia. A copy of his dissertation has been uploaded to the source folder on github. Shiung's dissertation was selected because of its focus on ceramics and its comprehensive nature, as it will be of direct influence on my own research. The goal of this exercise is to both delve into the existing literature on Maluku ceramic industries, to explore Shiung's theoretical frameworks in the hope that it will inform my own interpretations, and to connect Shiung's research to the current literature on explantory theory. 
@@ -60,7 +61,7 @@ Shiung's research demonstrates how causal processes can be applied to social phe
 
 Shiung's explanation that the movement of people across Maluku resulted in small changes to temper type and lip style over time, and in some way may have buffered any trend towards or incentive for craft specialization and production of ceramics in the context of foreign contact and external trade does not curtail future research. Rather it provides an interesting conundrum. What other causal processes or factors may have been present that could account for the persistence of cultural materials despite the availability of foreign goods and technology? Shiung's explanation provides additional lines of research that can be explored. Instead of providing entire explanations, the Causal-Nexus approach allows scientific exploration to go on little by little, and provides the opportunity to question social phenomena more fully. 
 
-
+#References
 
 
 
